@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - So Much To Say
+
+This log tracks the cryptographic history and versioning for the song **So Much To Say** (so-much-to-say).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T15:48:33.967047 | `v1` | `51645d8cfc4e31bb6a706f330b75737d8c1b2397d834b7c19f9c2b7746b093b9` | `51645d8cfc4e31bb6a706f330b75737d8c1b2397d834b7c19f9c2b7746b093b9` | `2026-05-26_so-much-to-say-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
